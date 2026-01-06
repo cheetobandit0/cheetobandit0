@@ -4,11 +4,8 @@
   
 
 ### <div align="center">Hi 👋, I'm Nguyễn Quang Lương</div>  
-  
 
-- 🔭 I’m currently working on Machine Learning, Deep Learning, Software  
   
-
 - 🌱 I’m currently learning University Of Transport Technology  
   
 
